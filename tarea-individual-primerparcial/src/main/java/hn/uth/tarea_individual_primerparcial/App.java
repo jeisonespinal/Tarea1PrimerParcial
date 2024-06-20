@@ -13,7 +13,7 @@ public class App {
             System.out.println("2. Calcular área de cuadrado");
             System.out.println("3. Calcular área de rectángulo");
             System.out.println("4. Calcular área de triángulo");
-            System.out.println("5. Salir");
+            System.out.println("5. Cancelar");
             menu = scanner.nextInt();
             scanner.nextLine();
             
